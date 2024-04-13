@@ -13,6 +13,6 @@ In this project we used Bank Customer details that we have segmented using K-mea
 #### REFERENCES
 
 - Dataset: Kaggle.com (https://www.kaggle.com/datasets/hariharanpavan/bank-marketing-dataset-analysis-classification)
-- Code Reference: medium.com, geekforgeeks.com, notes 
+- Code Reference: medium.com, geekforgeeks.com, Resources provided by Prof. Amarnath Mitra  
 - Google: analytixlabs.co.in, scikit-learn.org
 - Other References: chatgpt
